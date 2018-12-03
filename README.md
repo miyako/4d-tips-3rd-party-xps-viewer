@@ -45,7 +45,7 @@ If (Not(Semaphore(Storage.semaphores.printing)))
 		"noProgress";True;\
 		"title";"PRINT PREVIEW")
 		
-		  //fullScreen: start in fullscreen modec (disabled)
+		  //fullScreen: start in fullscreen mode (disabled)
 		  //debug: write log file to temp directory
 		  //noPrint: disable printing
 		  //noCopy: disable cut and copy
