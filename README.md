@@ -8,7 +8,7 @@ Forked version of [xpsview](https://github.com/miyako/xpsview) supports the foll
 
 ### Examples
 
-```
+```4d
 If (Not(Semaphore(Storage.semaphores.printing)))
 	
 	$currentPrinter:=Get current printer
